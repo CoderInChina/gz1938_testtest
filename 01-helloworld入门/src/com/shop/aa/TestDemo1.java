@@ -11,4 +11,9 @@ public class TestDemo1 {
 
     }
 
+    public void  testaaa()
+    {
+        System.out.println(" public void  testaaa()。。。。。。");
+    }
+
 }
