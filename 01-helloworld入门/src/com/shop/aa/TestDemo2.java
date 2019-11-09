@@ -9,6 +9,15 @@ public class TestDemo2 {
         System.out.println("---------llalalalla");
 
         System.out.printf("李四来了");
+
+
+
+    }
+
+
+    public void test_brank()
+    {
+        System.out.println("新添加了test-brank分支");
     }
 
 
